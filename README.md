@@ -5,8 +5,10 @@ con l'obiettivo di creare una rete neurale in grado di
 riconoscere le immagini di segnali stradali.
 
 # 🔧 Tecnologie utilizzate
-<a href="#"> Tensorflow </a>
-<a href="#"> Keras </a>
-<a href="#"> Google colab </a>
-<a href="#"> Python </a>
+<ul>
+<li><a href="#"> Tensorflow </a></li>
+<li><a href="#"> Keras </a></li>
+<li><a href="#"> Google colab </a></li>
+<li><a href="#"> Python </a></li>
+</ul>
 
