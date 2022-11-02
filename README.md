@@ -10,5 +10,7 @@ riconoscere le immagini di segnali stradali.
 <li><a href="#"> Keras </a></li>
 <li><a href="#"> Microsoft Visual Studio Code </a></li>
 <li><a href="#"> Python </a></li>
+<li><a href="#"> Pandas </a></li>
+<li><a href="#"> Numpy </a></li>
 </ul>
 
