@@ -8,7 +8,7 @@ riconoscere le immagini di segnali stradali.
 <ul>
 <li><a href="#"> Tensorflow </a></li>
 <li><a href="#"> Keras </a></li>
-<li><a href="#"> Google colab </a></li>
+<li><a href="#"> Microsoft Visual Studio Code </a></li>
 <li><a href="#"> Python </a></li>
 </ul>
 
